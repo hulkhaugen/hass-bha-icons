@@ -14,14 +14,6 @@ frontend:
     - /local/hass-bha-icons.html
 ```
 
-or keep them up-to-date by using the github url (Requires internet access):
-
-```yaml
-frontend:
-  extra_html_url:
-    - https://rawgit.com/hulkhaugen/hass-bha-icons/hass-bha-icons.html
-```
-
 Restart home-assistant.
 
 ## Using
