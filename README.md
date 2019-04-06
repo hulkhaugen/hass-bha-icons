@@ -22,7 +22,29 @@ Restart home-assistant.
 
 The icons uses the prefix `bha:`.
 
-Example: `icon: bha:outdoor-lamp`
+Example:
+
+```
+entities:
+  - entity: light.floor_lamp
+    icon: 'bha:floor-lamp'
+    name: floor-lamp
+  - entity: light.floor_lamp_dual
+    icon: 'bha:floor-lamp-dual'
+    name: floor-lamp-dual
+  - entity: light.led_strip
+    icon: 'bha:led-strip'
+    name: led-strip
+  - entity: light.outdoor_lamp_north
+    icon: 'bha:outdoor-lamp'
+    name: outdoor-lamp
+  - entity: light.outdoor_lamp_west
+    icon: 'bha:outdoor-lamp-variant'
+    name: outdoor-lamp-variant
+show_header_toggle: false
+title: hass-bha-icons
+type: entities
+```
 
 
 
