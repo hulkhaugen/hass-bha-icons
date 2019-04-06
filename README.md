@@ -1,6 +1,7 @@
 # hass-bha-icons
 
 Custom icon pack designed for Home-assistant.
+![Preview](https://raw.githubusercontent.com/hulkhaugen/hass-bha-icons/master/content.png)
 
 ## Install
 
