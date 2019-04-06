@@ -6,7 +6,7 @@ Custom icon pack designed for Home-assistant.
 
 ## Install
 
-Copy the html file for the set into `<config>/www/` where `<config>` is your home-assistant config directory (the directory where your `configuration.yaml` resides).
+Copy the html file into `<config>/www/` where `<config>` is your home-assistant config directory (the directory where your `configuration.yaml` resides).
 
 Add the folowing to the `frontend` section of your `configuration.yaml`
 
@@ -23,3 +23,7 @@ Restart home-assistant.
 The icons uses the prefix `bha:`.
 
 Example: `icon: bha:outdoor-lamp`
+
+
+
+Thanks to @thomasloven, as I used his hass-fontawesome as a template for this pack 
