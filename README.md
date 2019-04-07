@@ -46,6 +46,9 @@ title: hass-bha-icons
 type: entities
 ```
 
+## FAQ
 
+Q: The icon isn't showing, it's just white space where it should be. Why is that?
+A: Probably related to cache. Try opening your instance in incognito/private mode and see if your icon shows then. If yes, it's cache related. If not, spellcheck.
 
 Thanks to @thomasloven, as I used his hass-fontawesome as a template for this pack 
