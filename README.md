@@ -1,6 +1,6 @@
 # hass-bha-icons
 
-Custom icon pack designed for Home-assistant.
+Custom icon pack designed for Home Assistant.
 
 ![Preview](https://raw.githubusercontent.com/hulkhaugen/hass-bha-icons/master/content.png)
 
@@ -48,7 +48,10 @@ type: entities
 
 ## FAQ
 
-Q: The icon isn't showing, it's just white space where it should be. Why is that?
-A: Probably related to cache. Try opening your instance in incognito/private mode and see if your icon shows then. If yes, it's cache related. If not, spellcheck.
+Q: The icon ain't showing, it's just white space where it should be. What's up with that?
+
+A: Probably related to cache. Try opening your instance in a incognito/private Window and see if your icon shows then. If yes, it's cache related. If not, spellcheck.
+
+## Thanks
 
 Thanks to @thomasloven, as I used his hass-fontawesome as a template for this pack 
