@@ -2,7 +2,26 @@
 
 Custom icon pack designed for Home Assistant.
 
-![Preview](https://raw.githubusercontent.com/hulkhaugen/hass-bha-icons/master/content.png)
+## Content
+
+![Preview](./svg/ceiling-lamp.svg) ceiling-lamp<br />
+![Preview](./svg/ceiling-lamp-plafond.svg) ceiling-lamp-plafond<br />
+![Preview](./svg/ceiling-lamp-round.svg) ceiling-lamp-round<br />
+![Preview](./svg/chandelier.svg) chandelier<br />
+![Preview](./svg/floor-lamp.svg) floor-lamp<br />
+![Preview](./svg/floor-lamp-dual.svg) floor-lamp-dual<br />
+![Preview](./svg/led-strip.svg) led-strip<br />
+![Preview](./svg/light-string.svg) light-string<br />
+![Preview](./svg/outdoor-lamp.svg) outdoor-lamp<br />
+![Preview](./svg/outdoor-lamp-solo.svg) outdoor-lamp-solo<br />
+![Preview](./svg/outdoor-lamp-variant.svg) outdoor-lamp-variant<br />
+![Preview](./svg/mirror-lamp.svg) mirror-lamp<br />
+![Preview](./svg/roborock.svg) roborock<br />
+![Preview](./svg/smoke-detector.svg) smoke-detector<br />
+![Preview](./svg/thermostat.svg) thermostat<br />
+![Preview](./svg/xmas-candle-bridge.svg) xmas-candle-bridge<br />
+![Preview](./svg/xmas-star.svg) xmas-star<br />
+
 
 ## Install
 
