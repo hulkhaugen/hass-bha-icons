@@ -25,14 +25,14 @@ Custom icon pack designed for Home Assistant.
 
 ## Install
 
-Copy the html file into `<config>/www/` where `<config>` is your home-assistant config directory (the directory where your `configuration.yaml` resides).
+Copy the `hass-bha-icons.js` file into `<config>/www/` where `<config>` is your home-assistant config directory (the directory where your `configuration.yaml` resides).
 
 Add the folowing to the `frontend` section of your `configuration.yaml`
 
 ```yaml
 frontend:
-  extra_html_url:
-    - /local/hass-bha-icons.html
+  extra_module_url:
+    - /local/hass-bha-icons.js
 ```
 
 Restart home-assistant.
