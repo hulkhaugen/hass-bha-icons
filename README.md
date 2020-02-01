@@ -16,6 +16,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/outdoor-lamp-solo.svg) outdoor-lamp-solo<br />
 ![Preview](./svg/outdoor-lamp-variant.svg) outdoor-lamp-variant<br />
 ![Preview](./svg/mirror-lamp.svg) mirror-lamp<br />
+![Preview](./svg/path-light.svg) path-light<br />
 ![Preview](./svg/roborock.svg) roborock<br />
 ![Preview](./svg/smoke-detector.svg) smoke-detector<br />
 ![Preview](./svg/thermostat.svg) thermostat<br />
