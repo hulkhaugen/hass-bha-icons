@@ -19,6 +19,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/path-light.svg) path-light<br />
 ![Preview](./svg/roborock.svg) roborock<br />
 ![Preview](./svg/smoke-detector.svg) smoke-detector<br />
+![Preview](./svg/table-lamp-variant.svg) table-lamp-variant<br />
 ![Preview](./svg/thermostat.svg) thermostat<br />
 ![Preview](./svg/xmas-candle-bridge.svg) xmas-candle-bridge<br />
 ![Preview](./svg/xmas-star.svg) xmas-star<br />
