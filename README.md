@@ -75,4 +75,5 @@ A: Probably related to cache. Try opening your instance in a incognito/private W
 
 ## Thanks
 
-Thanks to @thomasloven, as I used his hass-fontawesome as a template for this pack 
+Thanks to @thomasloven, as I used his hass-fontawesome as a template for this pack
+Thanks to @prairiesnpr for his contributiuons
