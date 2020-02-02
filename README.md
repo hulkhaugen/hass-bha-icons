@@ -1,3 +1,5 @@
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
+
 # hass-bha-icons
 
 Custom icon pack designed for Home Assistant.
@@ -27,6 +29,7 @@ Custom icon pack designed for Home Assistant.
 
 ## Install
 
+### Manual
 Copy the `hass-bha-icons.js` file into `<config>/www/` where `<config>` is your home-assistant config directory (the directory where your `configuration.yaml` resides).
 
 Add the folowing to the `frontend` section of your `configuration.yaml`
@@ -38,6 +41,21 @@ frontend:
 ```
 
 Restart home-assistant.
+
+### HACS
+Add this repo to HACS as a plugin.
+
+Find the repo in the plugin list and install.
+
+Choose add resource to lovelace or using the Raw Config editor under Configure UI, add the following.
+
+```yaml
+resources:
+  - type: js
+    url: /local/community/hass-bha-icons/hass-bha-icons.js?v=0.1
+```
+
+No need to restart.
 
 ## Using
 
