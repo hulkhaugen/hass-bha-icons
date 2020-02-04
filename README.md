@@ -40,22 +40,19 @@ frontend:
     - /local/hass-bha-icons.js
 ```
 
-Restart home-assistant.
-
-### HACS
-Add this repo to HACS as a plugin.
-
-Find the repo in the plugin list and install.
-
-Choose add resource to lovelace or using the Raw Config editor under Configure UI, add the following.
+Or add the following to your lovelace configuration using the Raw Config editor under Configure UI or ui-lovelace.yaml if using YAML mode.
 
 ```yaml
 resources:
   - type: js
-    url: /local/community/hass-bha-icons/hass-bha-icons.js?v=0.1
+    url: /local/hass-bha-icons.js
 ```
 
-No need to restart.
+Restart home-assistant.
+
+### HACS
+
+Add this repo via HACS as a plugin and install.  See the [HACS install guide](./HACS_INSTALL.md) for step by step instructions.
 
 ## Using
 

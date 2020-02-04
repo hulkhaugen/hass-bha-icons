@@ -5,7 +5,7 @@ Install the plugin and then choose add resource to lovelace or using the Raw Con
 ```yaml
 resources:
   - type: js
-    url: /local/community/hass-bha-icons/hass-bha-icons.js?v=0.1
+    url: /local/community/hass-bha-icons/hass-bha-icons.js
 ```
 
 Icons will be available under the bha namespace, eg bha:led-strip
