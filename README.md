@@ -12,6 +12,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/ceiling-lamp-plafond.svg) ceiling-lamp-plafond<br />
 ![Preview](./svg/ceiling-lamp-round.svg) ceiling-lamp-round<br />
 ![Preview](./svg/chandelier.svg) chandelier<br />
+![Preview](./svg/dome-light.svg) dome-light<br />
 ![Preview](./svg/floor-lamp.svg) floor-lamp<br />
 ![Preview](./svg/floor-lamp-dual.svg) floor-lamp-dual<br />
 ![Preview](./svg/led-strip.svg) led-strip<br />
