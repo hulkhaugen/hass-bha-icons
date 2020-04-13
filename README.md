@@ -12,6 +12,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/ceiling-lamp-plafond.svg) ceiling-lamp-plafond<br />
 ![Preview](./svg/ceiling-lamp-round.svg) ceiling-lamp-round<br />
 ![Preview](./svg/chandelier.svg) chandelier<br />
+![Preview](./svg/dome-light.svg) dome-light<br />
 ![Preview](./svg/floor-lamp.svg) floor-lamp<br />
 ![Preview](./svg/floor-lamp-dual.svg) floor-lamp-dual<br />
 ![Preview](./svg/led-strip.svg) led-strip<br />
@@ -94,4 +95,5 @@ A: Probably related to cache. Try opening your instance in a incognito/private W
 ## Thanks
 
 Thanks to @thomasloven, as I used his hass-fontawesome as a template for this pack
-Thanks to @prairiesnpr for his contributiuons
+
+Thanks to @prairiesnpr and @kmlucy for their contributiuons
