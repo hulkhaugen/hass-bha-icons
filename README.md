@@ -6,7 +6,8 @@ Custom icon pack designed for Home Assistant.
 
 ## Content
 
-![Preview](./svg/ceiling-lamp.svg) ceiling-lamp<br />
+![Preview](./svg/ceiling-fan.svg) ceiling-fan<br />
+![Preview](./svg/ceiling-fan-light.svg) ceiling-fan-light<br />
 ![Preview](./svg/ceiling-lamp-plafond.svg) ceiling-lamp-plafond<br />
 ![Preview](./svg/ceiling-lamp-round.svg) ceiling-lamp-round<br />
 ![Preview](./svg/chandelier.svg) chandelier<br />
