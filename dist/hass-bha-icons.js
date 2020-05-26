@@ -77,16 +77,17 @@ async function getIcon(name) {
 window.customIconsets = window.customIconsets || {};
 window.customIconsets['bha'] = getIcon;
 
+if (!window.frontendVersion || window.frontendVersion < 20200519.0) {
+  // ha-iconset-svg (Up to Home Assistant 0.109):
+  const iconset = document.createElement("ha-iconset-svg");
+  iconset.name = "bha";
+  iconset.size = "24";
 
-// ha-iconset-svg (Up to Home Assistant 0.109):
-const iconset = document.createElement("ha-iconset-svg");
-iconset.name = "bha";
-iconset.size = "24";
+  let iconsetHTML = '';
+  for (let key in BHA_ICONS_MAP) {
+    iconsetHTML += `<g id="${key}"><path d="${BHA_ICONS_MAP[key]}" /></g>`;
+  }
 
-let iconsetHTML = '';
-for (let key in BHA_ICONS_MAP) {
-  iconsetHTML += `<g id="${key}"><path d="${BHA_ICONS_MAP[key]}" /></g>`;
+  iconset.innerHTML = `<svg><defs>${iconsetHTML}</defs></svg>`;
+  document.body.appendChild(iconset);
 }
-
-iconset.innerHTML = `<svg><defs>${iconsetHTML}</defs></svg>`;
-document.body.appendChild(iconset);
