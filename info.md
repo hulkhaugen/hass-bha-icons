@@ -1,11 +1,21 @@
 ## Usage:
-
-Install the plugin and then choose add resource to lovelace or using the Raw Config editor under Configure UI, add the following.
+Install the plugin and us it like this example:
 
 ```yaml
-resources:
-  - type: js
-    url: /local/community/hass-bha-icons/hass-bha-icons.js
+title: My Card
+type: entities
+entities:
+  - entity: light.rgbw_ledstrip
+    icon: bha:led-strip
 ```
 
-Icons will be available under the bha namespace, eg bha:led-strip
+### Systemwide availability (Optional)
+The steps above will make the icons available, but limited to the Lovelace UI only. If you want the icons to be available throughout Home Assistant, add the following to the `frontend` section of your `configuration.yaml`
+
+```yaml
+frontend:
+  extra_module_url:
+    - /hacsfiles/hass-bha-icons/hass-bha-icons.js
+```
+
+For this step, a system restart is needed.
