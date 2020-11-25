@@ -33,6 +33,9 @@ Custom icon pack designed for Home Assistant.
 
 ## Install
 
+### HACS
+Add this repo via HACS as a plugin and install.  See the [HACS install guide](./HACS_INSTALL.md) for step by step instructions.
+
 ### Manual
 Copy the `hass-bha-icons.js` file into `<config>/www/` where `<config>` is your home-assistant config directory (the directory where your `configuration.yaml` resides).
 
@@ -54,12 +57,7 @@ resources:
 
 Restart home-assistant.
 
-### HACS
-
-Add this repo via HACS as a plugin and install.  See the [HACS install guide](./HACS_INSTALL.md) for step by step instructions.
-
 ## Using
-
 The icons uses the prefix `bha:`.
 
 Example:
@@ -87,13 +85,11 @@ type: entities
 ```
 
 ## FAQ
-
 Q: The icon ain't showing, it's just white space where it should be. What's up with that?
 
 A: Probably related to cache. Try opening your instance in a incognito/private Window and see if your icon shows then. If yes, it's cache related. If not, spellcheck.
 
 ## Thanks
-
 Thanks to @thomasloven, as I used his hass-fontawesome as a template for this pack
 
-Thanks to @prairiesnpr and @kmlucy for their contributiuons
+Thanks to @prairiesnpr, @kmlucy, @GeorgeSG and @shbatm for their contributiuons
