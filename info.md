@@ -1,5 +1,5 @@
 ## Usage:
-Install the plugin and us it like this example:
+Install the plugin and use it like in this example:
 
 ```yaml
 title: My Card
