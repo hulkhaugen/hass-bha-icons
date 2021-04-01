@@ -75,7 +75,7 @@ async function getIcon(name) {
 }
 
 window.customIconsets = window.customIconsets || {};
-window.customIconsets[bha] = getIcon;
+window.customIconsets["bha"] = getIcon;
 
 if (!window.frontendVersion || window.frontendVersion < 20200519.0) {
   // ha-iconset-svg (Up to Home Assistant 0.109):
