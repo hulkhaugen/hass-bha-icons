@@ -34,7 +34,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/nginx-proxy-manager.svg) nginx-proxy-manager<br />
 ![Preview](./svg/node-red.svg) node-red<br />
 ![Preview](./svg/open-wrt.svg) open-wrt<br />
-![Preview](./svg/phoscom.svg) phoscom<br />
+![Preview](./svg/phoscon.svg) phoscom<br />
 
 
 ## Install
