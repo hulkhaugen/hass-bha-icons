@@ -29,6 +29,12 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/thermostat.svg) thermostat<br />
 ![Preview](./svg/xmas-candle-bridge.svg) xmas-candle-bridge<br />
 ![Preview](./svg/xmas-star.svg) xmas-star<br />
+![Preview](./svg/dsm.svg) dsm<br />
+![Preview](./svg/nas.svg) nas<br />
+![Preview](./svg/nginx-proxy-manager.svg) nginx-proxy-manager<br />
+![Preview](./svg/node-red.svg) node-red<br />
+![Preview](./svg/open-wrt.svg) open-wrt<br />
+![Preview](./svg/phoscom.svg) phoscom<br />
 
 
 ## Install
@@ -92,4 +98,4 @@ A: Probably related to cache. Try opening your instance in a incognito/private W
 ## Thanks
 Thanks to @thomasloven, as I used his hass-fontawesome as a template for this pack
 
-Thanks to @prairiesnpr, @kmlucy, @GeorgeSG and @shbatm for their contributiuons
+Thanks to @prairiesnpr, @kmlucy, @GeorgeSG, @shbatm and @clemalex824 for their contributiuons
