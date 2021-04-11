@@ -35,7 +35,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/node-red.svg) node-red<br />
 ![Preview](./svg/open-wrt.svg) open-wrt<br />
 ![Preview](./svg/phoscon.svg) phoscon<br />
-
+![Preview](./svg/filament.svg) filament<br />
 ## Install
 
 ### HACS
