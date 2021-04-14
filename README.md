@@ -4,7 +4,7 @@
 
 Custom icon pack designed for Home Assistant.
 
-## Content
+## Generic content
 
 ![Preview](./svg/ceiling-fan.svg) ceiling-fan<br />
 ![Preview](./svg/ceiling-fan-light.svg) ceiling-fan-light<br />
@@ -17,12 +17,12 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/floor-lamp-dual.svg) floor-lamp-dual<br />
 ![Preview](./svg/led-strip.svg) led-strip<br />
 ![Preview](./svg/light-string.svg) light-string<br />
+![Preview](./svg/nas.svg) nas<br />
 ![Preview](./svg/outdoor-lamp.svg) outdoor-lamp<br />
 ![Preview](./svg/outdoor-lamp-solo.svg) outdoor-lamp-solo<br />
 ![Preview](./svg/outdoor-lamp-variant.svg) outdoor-lamp-variant<br />
 ![Preview](./svg/mirror-lamp.svg) mirror-lamp<br />
 ![Preview](./svg/path-light.svg) path-light<br />
-![Preview](./svg/roborock.svg) roborock<br />
 ![Preview](./svg/smoke-detector.svg) smoke-detector<br />
 ![Preview](./svg/stairs.svg) stairs<br />
 ![Preview](./svg/table-lamp-variant.svg) table-lamp-variant<br />
@@ -30,6 +30,14 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/xmas-candle-bridge.svg) xmas-candle-bridge<br />
 ![Preview](./svg/xmas-star.svg) xmas-star<br />
 
+## Brands / products
+
+![Preview](./svg/adguard-home.svg) adguard-home<br />
+![Preview](./svg/nginx-proxy-manager.svg) nginx-proxy-manager<br />
+![Preview](./svg/node-red.svg) node-red<br />
+![Preview](./svg/open-wrt.svg) open-wrt<br />
+![Preview](./svg/phoscon.svg) phoscon<br />
+![Preview](./svg/roborock.svg) roborock<br />
 
 ## Install
 
@@ -92,4 +100,4 @@ A: Probably related to cache. Try opening your instance in a incognito/private W
 ## Thanks
 Thanks to @thomasloven, as I used his hass-fontawesome as a template for this pack
 
-Thanks to @prairiesnpr, @kmlucy, @GeorgeSG and @shbatm for their contributiuons
+Thanks to @prairiesnpr, @kmlucy, @GeorgeSG, @shbatm and @clemalex824 for their contributiuons
