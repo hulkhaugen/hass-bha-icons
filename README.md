@@ -6,11 +6,13 @@ Custom icon pack designed for Home Assistant.
 
 ## Generic content
 
+![Preview](./svg/ceiling-downlight.svg) ceiling-downlight<br />
 ![Preview](./svg/ceiling-fan.svg) ceiling-fan<br />
 ![Preview](./svg/ceiling-fan-light.svg) ceiling-fan-light<br />
 ![Preview](./svg/ceiling-lamp.svg) ceiling-lamp<br />
 ![Preview](./svg/ceiling-lamp-plafond.svg) ceiling-lamp-plafond<br />
 ![Preview](./svg/ceiling-lamp-round.svg) ceiling-lamp-round<br />
+![Preview](./svg/ceiling-spot-lamp.svg) ceiling-spot-lamp<br />
 ![Preview](./svg/chandelier.svg) chandelier<br />
 ![Preview](./svg/dome-light.svg) dome-light<br />
 ![Preview](./svg/floor-lamp.svg) floor-lamp<br />
@@ -33,6 +35,7 @@ Custom icon pack designed for Home Assistant.
 ## Brands / products
 
 ![Preview](./svg/adguard-home.svg) adguard-home<br />
+![Preview](./svg/b-hyve.svg) b-hyve<br />
 ![Preview](./svg/nginx-proxy-manager.svg) nginx-proxy-manager<br />
 ![Preview](./svg/node-red.svg) node-red<br />
 ![Preview](./svg/open-wrt.svg) open-wrt<br />
