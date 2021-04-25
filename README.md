@@ -41,7 +41,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/open-wrt.svg) open-wrt<br />
 ![Preview](./svg/phoscon.svg) phoscon<br />
 ![Preview](./svg/roborock.svg) roborock<br />
-![Preview](./svg/apple-tv-dark.svg) Apple TV<br />
+![Preview](./svg/apple-tv-dark.svg) AppleTV<br />
 
 ## Install
 
