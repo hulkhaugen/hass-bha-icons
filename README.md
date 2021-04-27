@@ -35,6 +35,7 @@ Custom icon pack designed for Home Assistant.
 ## Brands / products
 
 ![Preview](./svg/adguard-home.svg) adguard-home<br />
+![Preview](./svg/apple-tv.svg) apple-tv<br />
 ![Preview](./svg/b-hyve.svg) b-hyve<br />
 ![Preview](./svg/nginx-proxy-manager.svg) nginx-proxy-manager<br />
 ![Preview](./svg/node-red.svg) node-red<br />
