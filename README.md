@@ -18,6 +18,8 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/floor-lamp.svg) floor-lamp<br />
 ![Preview](./svg/floor-lamp-dual.svg) floor-lamp-dual<br />
 ![Preview](./svg/led-strip.svg) led-strip<br />
+![Preview](./svg/lightbulb-top.svg) lightbulb-top<br />
+![Preview](./svg/lightbulb-top-outline.svg) lightbulb-top-outline<br />
 ![Preview](./svg/light-string.svg) light-string<br />
 ![Preview](./svg/nas.svg) nas<br />
 ![Preview](./svg/outdoor-lamp.svg) outdoor-lamp<br />
@@ -26,6 +28,8 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/mirror-lamp.svg) mirror-lamp<br />
 ![Preview](./svg/path-light.svg) path-light<br />
 ![Preview](./svg/smoke-detector.svg) smoke-detector<br />
+![Preview](./svg/spot-bulb.svg) spot-bulb<br />
+![Preview](./svg/spot-bulb-top.svg) spot-bulb-top<br />
 ![Preview](./svg/stairs.svg) stairs<br />
 ![Preview](./svg/table-lamp-variant.svg) table-lamp-variant<br />
 ![Preview](./svg/thermostat.svg) thermostat<br />
@@ -37,6 +41,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/adguard-home.svg) adguard-home<br />
 ![Preview](./svg/apple-tv.svg) apple-tv<br />
 ![Preview](./svg/b-hyve.svg) b-hyve<br />
+![Preview](./svg/matter.svg) matter<br />
 ![Preview](./svg/nginx-proxy-manager.svg) nginx-proxy-manager<br />
 ![Preview](./svg/node-red.svg) node-red<br />
 ![Preview](./svg/open-wrt.svg) open-wrt<br />
