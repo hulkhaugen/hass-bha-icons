@@ -22,6 +22,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/lightbulb-top-outline.svg) lightbulb-top-outline<br />
 ![Preview](./svg/light-string.svg) light-string<br />
 ![Preview](./svg/nas.svg) nas<br />
+![Preview](./svg/night-light.svg) night-light<br />
 ![Preview](./svg/outdoor-lamp.svg) outdoor-lamp<br />
 ![Preview](./svg/outdoor-lamp-solo.svg) outdoor-lamp-solo<br />
 ![Preview](./svg/outdoor-lamp-variant.svg) outdoor-lamp-variant<br />
@@ -47,6 +48,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/open-wrt.svg) open-wrt<br />
 ![Preview](./svg/phoscon.svg) phoscon<br />
 ![Preview](./svg/roborock.svg) roborock<br />
+![Preview](./svg/transmission.svg) transmission<br />
 
 ## Install
 
@@ -109,4 +111,4 @@ A: Probably related to cache. Try opening your instance in a incognito/private W
 ## Thanks
 Thanks to @thomasloven, as I used his hass-fontawesome as a template for this pack
 
-Thanks to @prairiesnpr, @kmlucy, @GeorgeSG, @shbatm and @clemalex824 for their contributiuons
+Thanks to @prairiesnpr, @kmlucy, @GeorgeSG, @shbatm, @clemalex824 and @rautesamtr for their contributiuons
