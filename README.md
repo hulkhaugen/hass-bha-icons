@@ -41,13 +41,17 @@ Custom icon pack designed for Home Assistant.
 
 ![Preview](./svg/adguard-home.svg) adguard-home<br />
 ![Preview](./svg/apple-tv.svg) apple-tv<br />
+![Preview](./svg/asus.svg) asus<br />
 ![Preview](./svg/b-hyve.svg) b-hyve<br />
 ![Preview](./svg/matter.svg) matter<br />
 ![Preview](./svg/nginx-proxy-manager.svg) nginx-proxy-manager<br />
 ![Preview](./svg/node-red.svg) node-red<br />
 ![Preview](./svg/open-wrt.svg) open-wrt<br />
 ![Preview](./svg/phoscon.svg) phoscon<br />
+![Preview](./svg/qbittorrent.svg) qbittorrent<br />
+![Preview](./svg/radarr.svg) radarr<br />
 ![Preview](./svg/roborock.svg) roborock<br />
+![Preview](./svg/sonarr.svg) sonarr<br />
 ![Preview](./svg/transmission.svg) transmission<br />
 
 ## Install
