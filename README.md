@@ -48,10 +48,12 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/node-red.svg) node-red<br />
 ![Preview](./svg/open-wrt.svg) open-wrt<br />
 ![Preview](./svg/phoscon.svg) phoscon<br />
+![Preview](./svg/plex.svg) plex<br />
 ![Preview](./svg/qbittorrent.svg) qbittorrent<br />
 ![Preview](./svg/radarr.svg) radarr<br />
 ![Preview](./svg/roborock.svg) roborock<br />
 ![Preview](./svg/sonarr.svg) sonarr<br />
+![Preview](./svg/tautulli.svg) tautulli<br />
 ![Preview](./svg/transmission.svg) transmission<br />
 
 ## Install
