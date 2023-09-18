@@ -43,6 +43,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/apple-tv.svg) apple-tv<br />
 ![Preview](./svg/asus.svg) asus<br />
 ![Preview](./svg/b-hyve.svg) b-hyve<br />
+![Preview](./svg/homeassistant.svg) homeassistant<br />
 ![Preview](./svg/matter.svg) matter<br />
 ![Preview](./svg/nginx-proxy-manager.svg) nginx-proxy-manager<br />
 ![Preview](./svg/node-red.svg) node-red<br />
