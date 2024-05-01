@@ -15,6 +15,15 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/ceiling-spot-lamp.svg) ceiling-spot-lamp<br />
 ![Preview](./svg/chandelier.svg) chandelier<br />
 ![Preview](./svg/dome-light.svg) dome-light<br />
+![Preview](./svg/fan-speed-1.svg) fan-speed-1<br />
+![Preview](./svg/fan-speed-2.svg) fan-speed-2<br />
+![Preview](./svg/fan-speed-3.svg) fan-speed-3<br />
+![Preview](./svg/fan-speed-4.svg) fan-speed-4<br />
+![Preview](./svg/fan-speed-5.svg) fan-speed-5<br />
+![Preview](./svg/fan-speed-6.svg) fan-speed-6<br />
+![Preview](./svg/fan-speed-7.svg) fan-speed-7<br />
+![Preview](./svg/fan-speed-8.svg) fan-speed-8<br />
+![Preview](./svg/fan-speed-9.svg) fan-speed-9<br />
 ![Preview](./svg/floor-lamp.svg) floor-lamp<br />
 ![Preview](./svg/floor-lamp-dual.svg) floor-lamp-dual<br />
 ![Preview](./svg/led-strip.svg) led-strip<br />
@@ -60,9 +69,11 @@ Custom icon pack designed for Home Assistant.
 ## Install
 
 ### HACS
-Add this repo via HACS as a plugin and install.  See the [HACS install guide](./HACS_INSTALL.md) for step by step instructions.
+
+Add this repo via HACS as a plugin and install. See the [HACS install guide](./HACS_INSTALL.md) for step by step instructions.
 
 ### Manual
+
 Copy the `hass-bha-icons.js` file into `<config>/www/` where `<config>` is your home-assistant config directory (the directory where your `configuration.yaml` resides).
 
 Add the folowing to the `frontend` section of your `configuration.yaml`
@@ -84,6 +95,7 @@ resources:
 Restart home-assistant.
 
 ## Using
+
 The icons uses the prefix `bha:`.
 
 Example:
@@ -111,11 +123,13 @@ type: entities
 ```
 
 ## FAQ
+
 Q: The icon ain't showing, it's just white space where it should be. What's up with that?
 
 A: Probably related to cache. Try opening your instance in a incognito/private Window and see if your icon shows then. If yes, it's cache related. If not, spellcheck.
 
 ## Thanks
+
 Thanks to @thomasloven, as I used his hass-fontawesome as a template for this pack
 
 Thanks to @prairiesnpr, @kmlucy, @GeorgeSG, @shbatm, @clemalex824 and @rautesamtr for their contributiuons
