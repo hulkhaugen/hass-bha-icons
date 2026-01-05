@@ -26,6 +26,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/fan-speed-9.svg) fan-speed-9<br />
 ![Preview](./svg/floor-lamp.svg) floor-lamp<br />
 ![Preview](./svg/floor-lamp-dual.svg) floor-lamp-dual<br />
+![Preview](./svg/heat-pump.svg) heat-pump<br />
 ![Preview](./svg/led-strip.svg) led-strip<br />
 ![Preview](./svg/lightbulb-top.svg) lightbulb-top<br />
 ![Preview](./svg/lightbulb-top-outline.svg) lightbulb-top-outline<br />
@@ -59,6 +60,7 @@ Custom icon pack designed for Home Assistant.
 ![Preview](./svg/open-wrt.svg) open-wrt<br />
 ![Preview](./svg/phoscon.svg) phoscon<br />
 ![Preview](./svg/plex.svg) plex<br />
+![Preview](./svg/proxmox.svg) proxmox<br />
 ![Preview](./svg/qbittorrent.svg) qbittorrent<br />
 ![Preview](./svg/radarr.svg) radarr<br />
 ![Preview](./svg/roborock.svg) roborock<br />
